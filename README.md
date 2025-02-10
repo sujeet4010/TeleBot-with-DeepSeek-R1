@@ -1,5 +1,5 @@
 
-# TeleBot with DeepSeek
+# TeleBot with DeepSeek R1
 ## Overview
 
     TeleBot with DeepSeek is a Telegram chatbot powered by DeepSeek AI. This bot enables users to interact with an AI-powered assistant directly from Telegram, providing intelligent responses to user queries.
